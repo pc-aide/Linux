@@ -8,7 +8,7 @@
 ````Batch
 #Before
 route
-#Test host (next subnet)
+#Test host (next subnet) where not reached
 ping 172.16.5.1
 #Syntax : ip route add <subnet/cidr>
 #After

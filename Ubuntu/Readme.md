@@ -23,6 +23,11 @@ up route add -net 192.168.40.0/24 gw 192.168.30.1 dev em1
 ````
 
 ````Batch
+#To ensure the route has been set up correc
+route -n
+````
+
+````Batch
 #-I --all-ip-addresses
 hostname -I
 ````

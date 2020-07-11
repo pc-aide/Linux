@@ -5,6 +5,9 @@
 
 ## CLI basic
 ### Network
+#### URL
+* https://www.networkinghowtos.com/howto/adding-persistent-static-routes-on-ubuntu-18-04-and-higher-using-netplan/
+#### CLI
 ````Batch
 #Before
 route

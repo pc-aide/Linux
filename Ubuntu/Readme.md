@@ -22,8 +22,15 @@ vi /etc/network/interfaces
 up route add -net 192.168.40.0/24 gw 192.168.30.1 dev em1
 ````
 
+````Bath
+#To make these changes take effect
+sudo ifdown em1 && sudo ifup em1
+````
+
 ````Batch
-#To ensure the route has been set up correc
+#Show numerial addresses instead of trying to determine sybolic
+#host names. This is useful if you are trying to determine why
+#the route to your nameserver has vanished
 route -n
 ````
 

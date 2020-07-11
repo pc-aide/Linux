@@ -21,8 +21,18 @@ route
 
 ````Batch
 #Persist
-vi /etc/network/interfaces
-up route add -net 192.168.40.0/24 gw 192.168.30.1 dev em1
+vi /etc/netplan/01-network-manager-all.yaml
+# This file describes the network interfaces available on your system
+# For more information, see netplan(5).
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    eno1:
+      dhcp4: true
+      routes:
+      - to: 192.168.44.0/24
+        via: 192.168.0.1
 ````
 
 ````Bath

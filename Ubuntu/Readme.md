@@ -18,7 +18,7 @@ route
 
 ````Batch
 #Persist
-vi /etc/sysconfig/network-scripts/route-eth0
+vi /etc/network/interfaces
 ````
 
 ````Batch

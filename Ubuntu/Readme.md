@@ -53,8 +53,10 @@ hostname -I
 ````
 
 ### Services
+#### old.service
 * Location : /etc/init.d/\<FolderDaemon>\
 * service --status-all
 [<img src="https://i.imgur.com/ElAPewg.png">](https://i.imgur.com/ElAPewg.png)
 
-
+#### New.systemctl
+* systemctl start utserver

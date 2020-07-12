@@ -51,3 +51,7 @@ route -n
 #-I --all-ip-addresses
 hostname -I
 ````
+
+### Services
+* service --status-all
+[<img src="https://i.imgur.com/ElAPewg.png">](https://i.imgur.com/ElAPewg.png)

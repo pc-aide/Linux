@@ -54,5 +54,6 @@ hostname -I
 
 ### Services
 * service --status-all
-* Location : /etc/init.d/\<FolderDaemon>\
 [<img src="https://i.imgur.com/ElAPewg.png">](https://i.imgur.com/ElAPewg.png)
+* Location : /etc/init.d/\<FolderDaemon>\
+

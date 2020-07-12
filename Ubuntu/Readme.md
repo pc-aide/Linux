@@ -53,7 +53,8 @@ hostname -I
 ````
 
 ### Services
+* Location : /etc/init.d/\<FolderDaemon>\
 * service --status-all
 [<img src="https://i.imgur.com/ElAPewg.png">](https://i.imgur.com/ElAPewg.png)
-* Location : /etc/init.d/\<FolderDaemon>\
+
 

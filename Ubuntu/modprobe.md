@@ -5,6 +5,8 @@ modprobe - Add & remove modules from the linux Kernel
 
 ## E.g.
 ````Batch
+#Find out your USB
+lsusb | grep -i serial
 #
 modprobe usbserial vendor=0x067b product=0x2303
 #

@@ -52,10 +52,22 @@ route -n
 hostname -I
 ````
 
+````Batch
+#pkill - procress.name kill
+pkill nautilus
+````
+
+````Batch
+#pgrep - process grep | pgrep <process>
+pgrep firefox
+````
+[<img src="https://i.imgur.com/GZZcNfl.png">](https://i.imgur.com/GZZcNfl.png)
+
 ### Services
 #### old.service
 * Location : /etc/init.d/\<FolderDaemon>\
 * service --status-all
+
 [<img src="https://i.imgur.com/ElAPewg.png">](https://i.imgur.com/ElAPewg.png)
 
 #### New.systemctl

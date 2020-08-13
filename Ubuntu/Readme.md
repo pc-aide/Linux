@@ -95,6 +95,6 @@ ssh - i "EC2-Demo.pem" ec2-user@132.82.161.84
 
 ## Format
 ````Bash
-# Syntax: mke2fs dev/<Name.Disk\>
+# Syntax: mke2fs dev/<Name.Disk>
 mke2fs /dev/xvdb
 ````

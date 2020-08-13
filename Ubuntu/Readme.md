@@ -106,3 +106,5 @@ mke2fs /dev/xvdb
 # Syntax : mount /dev/<Name.Disk> /mnt or /media/
 ````
 [<img src="https://i.imgur.com/RueiJsM.png">](https://i.imgur.com/RueiJsM.png)
+
+[<img src="https://i.imgur.com/hbC5OKp.png">](https://i.imgur.com/hbC5OKp.png)

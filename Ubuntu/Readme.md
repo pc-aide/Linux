@@ -85,3 +85,10 @@ Vim /home/debian/.bashrc
 
 ##### chmod
 [<img src="https://preview.redd.it/vkxuqbatopk21.png?auto=webp&s=81f97dac1e1ceb5054ee43cbe96ec6fa55215695">](https://preview.redd.it/vkxuqbatopk21.png?auto=webp&s=81f97dac1e1ceb5054ee43cbe96ec6fa55215695)
+
+##### ssh
+````Bash
+# -i : identity file (private key)
+ssh - i "EC2-Demo.pem" ec2-user@132.82.161.84
+````
+[<img src="https://i.imgur.com/NRH6eC8.png">](https://i.imgur.com/NRH6eC8.png)

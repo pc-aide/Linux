@@ -98,3 +98,4 @@ ssh - i "EC2-Demo.pem" ec2-user@132.82.161.84
 # Syntax: mke2fs dev/<Name.Disk>
 mke2fs /dev/xvdb
 ````
+[<img src="https://i.imgur.com/yX69lgN.png">](https://i.imgur.com/yX69lgN.png)

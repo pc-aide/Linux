@@ -99,3 +99,10 @@ ssh - i "EC2-Demo.pem" ec2-user@132.82.161.84
 mke2fs /dev/xvdb
 ````
 [<img src="https://i.imgur.com/yX69lgN.png">](https://i.imgur.com/yX69lgN.png)
+
+## Mount
+````Bash
+# mnt versus media : 
+# Syntax : mount /dev/<Name.Disk> /mnt or /media/
+````
+[<img src="https://i.imgur.com/RueiJsM.png">](https://i.imgur.com/RueiJsM.png)

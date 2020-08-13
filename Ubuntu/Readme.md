@@ -72,3 +72,13 @@ pgrep firefox
 
 #### New.systemctl
 * systemctl start utserver
+
+##### PS1= in .bashrc
+````Bash
+# http://ezprompt.net/ - .bashrc PS1 generator
+# reload bashrc > . ~/.bashrc
+# /root/.bashrc
+# Edit PS1="[\[\e[31m\]\A\[\e[m\]]\[\e[36;40m\]\W\[\e[m\]\\$ "
+Vim /home/debian/.bashrc
+````
+[<img src="https://i.imgur.com/YKmpCBB.png">](https://i.imgur.com/YKmpCBB.png)

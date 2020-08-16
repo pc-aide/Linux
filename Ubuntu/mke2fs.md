@@ -13,6 +13,8 @@ mke2fs -t \<typeVolume\> \<path.device\>
 ````Bash
 mke2fs -t ext4 /dev/xvdb
 ````
+[<img src="https://i.imgur.com/W6lFY9k.png">](https://i.imgur.com/W6lFY9k.png)
+
 [<img src="https://i.imgur.com/JNrXpGc.png">](https://i.imgur.com/JNrXpGc.png)
 
 [<img src="https://i.imgur.com/7SL9NGD.png">](https://i.imgur.com/7SL9NGD.png)

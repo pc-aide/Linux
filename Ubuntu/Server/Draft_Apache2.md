@@ -52,3 +52,5 @@ curl -4 icanhazip.com
 
 ## Default Page
 [<img src="https://i.imgur.com/DfnhAfS.png">](https://i.imgur.com/DfnhAfS.png)
+
+## Virtual Host

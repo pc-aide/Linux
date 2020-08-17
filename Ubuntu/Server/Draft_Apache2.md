@@ -7,6 +7,11 @@
 * ^ : first string charactere
 * $ : last string charactere
 
+## file
+1) /var/www/html/... (DocumentRoot - code html, php, etc)
+2) file.config (port, DocumentRoot,ServerName,Log, etc)
+    * vim /etc/apache2/sites-available/test.conf
+
 ## Apache version
 * Apache2
 * 
@@ -71,6 +76,11 @@ cat /etc/apache2/sites-available/test.conf
 ````Bash
 # Enable <file.conf> | a2dissite (disabled <file.conf>
 a2ensite test.conf
+````
+
+````Bash
+# Reload apache service
+systemctl reload apache2
 ````
 
 #### Browser

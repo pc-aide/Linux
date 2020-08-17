@@ -43,3 +43,9 @@ ufw enable
 ufw status
 ````
 [<img src="https://i.imgur.com/3vMzW7G.png">]
+
+## IP Public
+````Bash
+curl -4 icanhazip.com
+````
+[<img src="https://i.imgur.com/Gvq798D.png">](https://i.imgur.com/Gvq798D.png)

@@ -57,6 +57,12 @@ curl -4 icanhazip.com
 
 ### test.html
 ````Bash
+# code
 cat/ var/www/html/test.html
 ````
 [<img src="https://i.imgur.com/tXs9wqY.png">](https://i.imgur.com/tXs9wqY.png)
+
+````Bash
+# config
+cat /etc/apache2/sites-available/test.conf
+````

@@ -49,3 +49,6 @@ ufw status
 curl -4 icanhazip.com
 ````
 [<img src="https://i.imgur.com/Gvq798D.png">](https://i.imgur.com/Gvq798D.png)
+
+## Default Page
+[<img src="https://i.imgur.com/DfnhAfS.png">](https://i.imgur.com/DfnhAfS.png)

@@ -54,3 +54,9 @@ curl -4 icanhazip.com
 [<img src="https://i.imgur.com/DfnhAfS.png">](https://i.imgur.com/DfnhAfS.png)
 
 ## Virtual Host
+
+### test.html
+````Bash
+cat/ var/www/html/test.html
+````
+[<img src="https://i.imgur.com/tXs9wqY.png">](https://i.imgur.com/tXs9wqY.png)

@@ -1,5 +1,8 @@
 # Apache2
 
+## Acronym
+* fw - firewall
+
 ## Regex
 * ^ : first string charactere
 * $ : last string charactere
@@ -19,3 +22,14 @@
 apt search --name-only ^apache2$
 ````
 [<img src="https://i.imgur.com/Gzba1WU.png">](https://i.imgur.com/Gzba1WU.png)
+
+## Install
+````Bash
+apt install -y apache2
+````
+
+## fw
+````Bash
+ufw app list
+````
+[<img src="https://i.imgur.com/q2iocqD.png">](https://i.imgur.com/q2iocqD.png)

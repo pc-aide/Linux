@@ -12,6 +12,8 @@
 2) file.config (port, DocumentRoot,ServerName,Log, etc)
     * vim /etc/apache2/sites-available/test.conf
 
+3) etc/apache2/ports.conf 
+
 ## Apache version
 * Apache2
 * 

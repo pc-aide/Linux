@@ -72,3 +72,6 @@ cat /etc/apache2/sites-available/test.conf
 # Enable <file.conf> | a2dissite (disabled <file.conf>
 a2ensite test.conf
 ````
+
+#### Browser
+[<img src="https://i.imgur.com/AKs0CiF.png">](https://i.imgur.com/AKs0CiF.png)

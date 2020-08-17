@@ -33,3 +33,13 @@ apt install -y apache2
 ufw app list
 ````
 [<img src="https://i.imgur.com/q2iocqD.png">](https://i.imgur.com/q2iocqD.png)
+
+````Bash
+# Enabled if Status: inactive
+ufw enable
+````
+
+````Bash
+ufw status
+````
+[<img src="https://i.imgur.com/3vMzW7G.png">]

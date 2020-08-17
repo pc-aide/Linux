@@ -2,5 +2,5 @@
 
 ## e.g.
 0) /home/\<**user**\>
-  * /home/ubuntu 
-  * /home/debian
+   * /home/ubuntu 
+   * /home/debian

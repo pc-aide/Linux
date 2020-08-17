@@ -67,3 +67,8 @@ cat/ var/www/html/test.html
 cat /etc/apache2/sites-available/test.conf
 ````
 [<img src="https://i.imgur.com/294s7X9.png">](https://i.imgur.com/294s7X9.png)
+
+````Bash
+# Enable <file.conf> | a2dissite (disabled <file.conf>
+a2ensite test.conf
+````

@@ -1,0 +1,6 @@
+# CentOS
+
+## package
+* yum
+
+##

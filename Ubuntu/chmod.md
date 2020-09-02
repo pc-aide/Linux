@@ -1,5 +1,12 @@
 # chmod
 
+## Syntax
+* chmod ug+x <file> ; assign execute permission to user and group in file.
+* chmod a+x <file> ; assign execute permission to all in file.
+* chmod o-x <file> ; remove execute permission to others in file.
+* chmod go+r <file> ; assign read permission to group & others in file.
+* chmod u+rwx ,g+rw,o+r file.
+
 ## Permissions
 ### Symbols 
 * d = Directory

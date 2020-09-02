@@ -21,7 +21,7 @@
 
 
 ### E.g
-````BAsh
+````Bash
 chmod 400 *.pem
 ````
 [<img src="https://i.imgur.com/0besxhj.png">](https://i.imgur.com/0besxhj.png)

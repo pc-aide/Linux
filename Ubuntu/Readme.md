@@ -83,9 +83,6 @@ Vim /home/debian/.bashrc
 ````
 [<img src="https://i.imgur.com/YKmpCBB.png">](https://i.imgur.com/YKmpCBB.png)
 
-##### chmod
-[<img src="https://preview.redd.it/vkxuqbatopk21.png?auto=webp&s=81f97dac1e1ceb5054ee43cbe96ec6fa55215695">](https://preview.redd.it/vkxuqbatopk21.png?auto=webp&s=81f97dac1e1ceb5054ee43cbe96ec6fa55215695)
-
 ##### ssh
 ````Bash
 # -i : identity file (private key)

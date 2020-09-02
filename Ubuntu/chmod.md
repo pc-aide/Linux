@@ -11,9 +11,11 @@
 |Digit | Read Human | Binary|
 |------|------------|-------|
 |7     |rwx         |111    |
+|6     |rw-         |110    |
+|5     |r-x         |101    |
+|4     |r--         |100    |
+|3     |-wx         |011    | 
+|2     |-w-         |010    |
+|1     |--x         |001    |
+|0     |---         |000
 
-* E.g
-  * chmod 777
-    rwx   |rwx   |rwx
-    Owner |Group | Others
-[<img src="https://preview.redd.it/vkxuqbatopk21.png?auto=webp&s=81f97dac1e1ceb5054ee43cbe96ec6fa55215695">](https://preview.redd.it/vkxuqbatopk21.png?auto=webp&s=81f97dac1e1ceb5054ee43cbe96ec6fa55215695)

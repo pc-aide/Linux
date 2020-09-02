@@ -17,8 +17,8 @@
 * a = All
 * g = Group
 * o = Other
-* + = Add
-* - = Remove
+* \+ = Add
+* \- = Remove
 
 ### Table
 |Digit | Read Human | Binary|

@@ -21,3 +21,9 @@ curl ifconfig.me
 curl ifconfig; echo
 ````
 [<img src="https://i.imgur.com/xx9bRty.png">](https://i.imgur.com/xx9bRty.png)
+
+### httpd
+````Bash
+# welcome.html
+curl localhost:80
+````

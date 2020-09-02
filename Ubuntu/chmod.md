@@ -19,3 +19,9 @@
 |1     |--x         |001    |
 |0     |---         |000
 
+
+### E.g
+````BAsh
+chmod 400 *.pem
+````
+[<img src="https://i.imgur.com/0besxhj.png">](https://i.imgur.com/0besxhj.png)

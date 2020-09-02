@@ -1,11 +1,17 @@
 # chmod
 
 ## Permissions
-### Symbols (exclude special symbol as "S")
+### Symbols 
 * d = Directory
 * r = Read
 * W = Write
 * x = Execute
+* u = User
+* a = All
+* g = Group
+* o = Other
+* + = Add
+* - = Remove
 
 ### Table
 |Digit | Read Human | Binary|
@@ -21,7 +27,16 @@
 
 
 ### E.g
+#### Digit
 ````Bash
+# Add read
 chmod 400 *.pem
 ````
 [<img src="https://i.imgur.com/0besxhj.png">](https://i.imgur.com/0besxhj.png)
+
+#### Read Human
+````Bash
+# Add read to group & owner
+chmod go+r *
+````
+[<img src="https://i.imgur.com/ulmsQS4.png">](https://i.imgur.com/ulmsQS4.png)

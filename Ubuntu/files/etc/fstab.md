@@ -11,7 +11,7 @@
 1) \<file system\>
 2) \<mount point\>
 3) \<type\>
-  * cifs
+   * cifs
 4) \<options\>
 5) \<dump\>
 6) \<pass\>

@@ -27,3 +27,5 @@ curl ifconfig; echo
 # welcome.html
 curl localhost:80
 ````
+
+[<img src="https://i.imgur.com/MZDSArz.png">](https://i.imgur.com/MZDSArz.png)

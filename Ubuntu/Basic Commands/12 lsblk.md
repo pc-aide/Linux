@@ -7,7 +7,7 @@
 * -a --all
 * -f --fs
 * -o --output list
-    * name, label, mountpoint, size, UID
+    * name, label, mountpoint, size, uid, etc
 * -l --list
 
 ## Examples

@@ -15,3 +15,8 @@
 4) \<options\>
 5) \<dump\>
 6) \<pass\>
+
+## Examples
+### 01 - cred
+
+### 02 - no cred

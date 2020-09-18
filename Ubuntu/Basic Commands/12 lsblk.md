@@ -28,3 +28,8 @@ lsblk -a
 lsblk -o name,label,mountpoint,size
 ````
 [<img src="https://i.imgur.com/R7d8UsY.png">](https://i.imgur.com/R7d8UsY.png)
+
+````bash
+lsblk -lo name,size,type,label
+````
+[<img src="https://i.imgur.com/7GDTTBO.png">](https://i.imgur.com/7GDTTBO.png)

@@ -6,6 +6,8 @@
 ## Switch
 * -a --all
 * -f --fs
+* -o --output list
+    * name, label, mountpoint, size, UID
 * -l --list
 
 ## Examples
@@ -20,3 +22,9 @@ lsblk -f
 lsblk -a
 ````
 [<img src="https://i.imgur.com/fq6Crl8.png">](https://i.imgur.com/fq6Crl8.png)
+
+
+````bash
+lsblk -o name,label,mountpoint,size
+````
+[<img src="https://i.imgur.com/R7d8UsY.png">](https://i.imgur.com/R7d8UsY.png)

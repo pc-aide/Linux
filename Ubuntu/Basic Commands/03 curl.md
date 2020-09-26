@@ -6,6 +6,7 @@
 ## Syntax
 
 ## Switch
+- s --silent
 
 ## Examples
 ### IPS

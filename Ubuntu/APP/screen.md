@@ -17,3 +17,6 @@
 [<img src="https://i.imgur.com/FwPRaBl.png">](https://i.imgur.com/FwPRaBl.png)
 
 ### Scroll up or down 
+* ctrl + a + esc
+
+[<img src="https://i.imgur.com/8uP0kKN.png">](https://i.imgur.com/8uP0kKN.png)

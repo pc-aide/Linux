@@ -3,36 +3,28 @@
 ## Acronym
 * ISP - Internet Service Provider (IPv4 Public - default : dynmac IP)
 
-## Syntax
-
 ## Switch
 - s --silent
 - I --Head
+- L --Location
 
 ## Examples
-### IPS
-* Default :
-````Bash
-#MY ISP
-curl ifconfig.me
-````
-[<img src="https://i.imgur.com/4VcaqNI.png">](https://i.imgur.com/4VcaqNI.png)
-
-* New Line:
-````Bash
-curl ifconfig; echo
-````
-[<img src="https://i.imgur.com/xx9bRty.png">](https://i.imgur.com/xx9bRty.png)
-
-### httpd
-````Bash
-# welcome.html
-curl localhost:80
-````
-
-[<img src="https://i.imgur.com/MZDSArz.png">](https://i.imgur.com/MZDSArz.png)
-
+### Location
 ````bash
-curl -I d313lefeloqp9o.cloudfront.net
+curl -L localhost:8080
 ````
-[<img src="https://i.imgur.com/XaYP8Q5.png">](https://i.imgur.com/XaYP8Q5.png)
+[<img src="https://i.imgur.com/1xPplP1.png">](https://i.imgur.com/1xPplP1.png)
+[<img src="https://i.imgur.com/2hI7PiV.png">](https://i.imgur.com/2hI7PiV.png)
+
+### MyISP
+````bash
+curl ifconfig.me; echo
+````
+[<img src="https://i.imgur.com/HRMqgUR.png">](https://i.imgur.com/HRMqgUR.png)
+
+### Head
+* (get http-mothods)
+````bash
+curl -I localhost:8080
+````
+[<img src="https://i.imgur.com/fxOIlRI.png">](https://i.imgur.com/fxOIlRI.png)

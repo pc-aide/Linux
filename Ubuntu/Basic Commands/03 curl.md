@@ -7,6 +7,7 @@
 
 ## Switch
 - s --silent
+- I --Head
 
 ## Examples
 ### IPS
@@ -30,3 +31,8 @@ curl localhost:80
 ````
 
 [<img src="https://i.imgur.com/MZDSArz.png">](https://i.imgur.com/MZDSArz.png)
+
+````bash
+curl -I d313lefeloqp9o.cloudfront.net
+````
+[<img src="https://i.imgur.com/XaYP8Q5.png">](https://i.imgur.com/XaYP8Q5.png)

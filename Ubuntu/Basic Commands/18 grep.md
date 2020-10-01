@@ -1,7 +1,5 @@
 # grep
 
-## Syntax
-
 ## Switch
 * A \<number\> --show me **after** the match
 * B \<number\> --show me **before** the match

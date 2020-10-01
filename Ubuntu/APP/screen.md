@@ -5,7 +5,7 @@
 * [man](http://manpages.ubuntu.com/manpages/focal/en/man4/screen.4freebsd.html)
 
 ## Switch console
-* * ctrl + tab
+* ctrl + tab
 
 ## Shortcut
 ### split screen

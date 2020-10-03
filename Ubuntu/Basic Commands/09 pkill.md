@@ -3,7 +3,7 @@
 
 ## signal
 * 9 - forced
-* 15 
+* 15 - term normally
 
 ## Examples
 ````bash

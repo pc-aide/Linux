@@ -48,7 +48,7 @@ adduser utorrent utorrent
 
 #Permission
 #-R --Recursive
-chmod utorrent:utorrent /opt/uttorent-server-alpha-v3_3/ -R
+chown utorrent:utorrent /opt/uttorent-server-alpha-v3_3/ -R
 
 #Link 
 ln -s /opt/utorrent-server-alpha-v3_3/utserver /usr/bin/utserver

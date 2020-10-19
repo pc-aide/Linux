@@ -26,6 +26,7 @@ apt list | grep -i nfs-common
 pip install aws-encryption-sdk-cli
 ````
 [<img src="https://i.imgur.com/Sjd58ha.png">](https://i.imgur.com/Sjd58ha.png)
+[<img src="https://i.imgur.com/7H5UC5R.png">](https://i.imgur.com/7H5UC5R.png)
 
 ````bash
 apt install -y stunnel4

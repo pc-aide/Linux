@@ -37,3 +37,10 @@ curl -I localhost:8080
 curl -H 'X-Api-Key: KeyString URL'
 ````
 [<img src="https://i.imgur.com/BlXOHlL.png">](https://i.imgur.com/BlXOHlL.png)
+
+### 05 port
+````bash
+curl -I http://rds.ca:80
+````
+[<img src="https://i.imgur.com/sbnmUNg.png">](https://i.imgur.com/sbnmUNg.png)
+[<img src="https://i.imgur.com/vBu15ds.png">](https://i.imgur.com/vBu15ds.png)

@@ -1,5 +1,5 @@
 # oxygen-cursor-theme-extra
-    * Oxygen mouse cursor theme - extra colors
+   * Oxygen mouse cursor theme - extra colors
 
 ## File
 * find /usr/share/icons/ -name *.theme

@@ -29,3 +29,10 @@ update-alternative --config x-cursor-theme
 # spaz out
 compiz --replce
 ````
+
+---
+
+## Utimate serie for right handed
+* [Ultimate Serie for right handed](https://www.gnome-look.org/p/999859#files-panel)
+
+[<img src="https://i.imgur.com/cxtdacL.png">](https://i.imgur.com/cxtdacL.png)

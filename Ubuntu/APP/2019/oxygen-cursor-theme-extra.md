@@ -1,6 +1,13 @@
 # oxygen-cursor-theme-extra
    * Oxygen mouse cursor theme - extra colors
 
+## Theme 
+* download with uptobox
+
+* [Cursors](https://www.gnome-look.org/browse/cat/107/page/21/ord/latest/)
+
+[<img src="https://i.imgur.com/GzFTL3n.png">](https://i.imgur.com/GzFTL3n.png)
+
 ## File
 * find /usr/share/icons/ -name *.theme
 

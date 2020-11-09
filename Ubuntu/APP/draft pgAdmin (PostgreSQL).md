@@ -20,3 +20,6 @@ apt search --name-only ^pgadmin4$
 
 ## GUI
 [<img src="https://i.imgur.com/A1KULXx.png">](https://i.imgur.com/A1KULXx.png)
+
+### Create table
+[<img src="https://i.imgur.com/YDfwFv6.png">](https://i.imgur.com/YDfwFv6.png)

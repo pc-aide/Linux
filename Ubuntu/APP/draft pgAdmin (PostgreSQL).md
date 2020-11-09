@@ -13,4 +13,4 @@ sudo apt-get install pgadmin4 pgadmin4-apache2 -y
 ---
 
 ## GUI
-[<img src="https://i.imgur.com/hwCh1l0.png">](https://i.imgur.com/hwCh1l0.png)
+[<img src="https://i.imgur.com/A1KULXx.png">](https://i.imgur.com/A1KULXx.png)

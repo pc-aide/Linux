@@ -10,6 +10,12 @@ sudo apt-get update
 sudo apt-get install pgadmin4 pgadmin4-apache2 -y
 ````
 
+### apt search
+````bash
+apt search --name-only ^pgadmin4$
+````
+[<img src="https://i.imgur.com/UQyh4HK.png">](https://i.imgur.com/UQyh4HK.png)
+
 ---
 
 ## GUI

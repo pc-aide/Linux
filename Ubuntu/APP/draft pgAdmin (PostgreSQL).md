@@ -23,3 +23,6 @@ apt search --name-only ^pgadmin4$
 
 ### Create table
 [<img src="https://i.imgur.com/YDfwFv6.png">](https://i.imgur.com/YDfwFv6.png)
+
+### Columns
+[<img src="https://i.imgur.com/Z45qBNo.png">](https://i.imgur.com/Z45qBNo.png)

@@ -4,7 +4,7 @@
 * -R --recursive
 
 ## Example
-### 01 user:group
+### 01 - user:group
 ````bash
 sudo chown ubuntu:ubuntu *
 ````

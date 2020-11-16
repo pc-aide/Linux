@@ -7,9 +7,11 @@ apt search --name-only ^freerdp-x11
 [<img src="https://i.imgur.com/iZqeLeC.png">](https://i.imgur.com/iZqeLeC.png)
 
 ## Switch
-* -size: 
+1 -size: 
   * Default (implicit) : 1024x768
   * 1440x900
+2. /v - host
+3. /u - user
 
 ## Files
 * /home/ubuntu/.config/freerdp/known_hosts

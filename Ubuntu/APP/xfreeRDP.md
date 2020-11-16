@@ -1,6 +1,10 @@
 # xfreeRDP
 
-## Syntax
+## Search
+````bash
+apt search --name-only ^freerdp-x11
+````
+[<img src="https://i.imgur.com/iZqeLeC.png">](https://i.imgur.com/iZqeLeC.png)
 
 ## Switch
 * -size: 

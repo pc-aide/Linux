@@ -12,6 +12,7 @@ apt search --name-only ^freerdp-x11
   * 1440x900
 2. /v - host
 3. /u - user
+4. +clipboard
 
 ## Files
 * /home/ubuntu/.config/freerdp/known_hosts

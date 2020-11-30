@@ -1,4 +1,4 @@
-24 sed
+# 24 sed
 
 ## Syntax
 * sed -i 's/<OldPatern>/<NewPattern>/ file

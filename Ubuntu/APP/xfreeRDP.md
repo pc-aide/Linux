@@ -10,9 +10,9 @@ apt search --name-only ^freerdp-x11
 1 -size: 
   * Default (implicit) : 1024x768
   * 1440x900
-2. /v - host
-3. /u - user
-4. /sound:sys:alsa
+2 /v - host
+3 /u - user
+4 /sound:sys:alsa
 
 
 ## Files

@@ -7,12 +7,12 @@ apt search --name-only ^freerdp-x11
 [<img src="https://i.imgur.com/iZqeLeC.png">](https://i.imgur.com/iZqeLeC.png)
 
 ## Switch
-1 -size: 
+1) -size: 
   * Default (implicit) : 1024x768
   * 1440x900
-2 /v - host
-3 /u - user
-4 /sound:sys:alsa
+2) /v - host
+3) /u - user
+4) /sound:sys:alsa
 
 
 ## Files

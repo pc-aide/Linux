@@ -13,7 +13,7 @@ apt search --name-only ^freerdp-x11
 2) /v - host
 3) /u - user
 4) /sound:sys:alsa
-
+5) +clipboard
 
 ## Files
 * /home/ubuntu/.config/freerdp/known_hosts

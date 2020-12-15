@@ -8,8 +8,8 @@ apt search --name-only ^freerdp-x11
 
 ## Switch
 1) -size: 
-  * Default (implicit) : 1024x768
-  * 1440x900
+   * Default (implicit) : 1024x768
+   * 1440x900
 2) /v - host
 3) /u - user
 4) /sound:sys:alsa

@@ -14,8 +14,9 @@ apt search --name-only ^freerdp-x11
 3) /u - user
 4) /sound:sys:alsa
 5) +clipboard
-6) xfreerdp /monitor-list -- to  check detected monitors
-7) xfreerdp /monitors:1,2 /multimon /v:<host>
+6) /monitor-list -- to  check detected monitors
+7) /monitors:1,2 /multimon /v:<host>
+8) /microphone:sys:alsa
 
 ## Files
 * /home/ubuntu/.config/freerdp/known_hosts

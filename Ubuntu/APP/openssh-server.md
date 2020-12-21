@@ -12,3 +12,11 @@ apt search --name-only openssh-server
 ````bash
 apt install -y openssh-server
 ````
+
+---
+
+## daemon
+````bash
+systemctl status ssh
+````
+[<img src="https://i.imgur.com/1JY28cK.png">](https://i.imgur.com/1JY28cK.png)

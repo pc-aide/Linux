@@ -8,6 +8,7 @@
 - I --Head
 - L --Location
 - H --header
+- X --request <command>
 
 ## Examples
 ### 01 Location
@@ -44,3 +45,8 @@ curl -I http://rds.ca:80
 ````
 [<img src="https://i.imgur.com/sbnmUNg.png">](https://i.imgur.com/sbnmUNg.png)
 [<img src="https://i.imgur.com/vBu15ds.png">](https://i.imgur.com/vBu15ds.png)
+
+### 06 data
+````sh
+crul -X PUT <URL> --data '{ "text": "Study Pro exam", "checked": true}'
+````

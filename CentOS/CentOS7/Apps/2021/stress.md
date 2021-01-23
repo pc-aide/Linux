@@ -20,9 +20,13 @@
   * spawn N workers spinning on sqrt()
 
 * `stress --cpu 2 --timeout 90`
+* `stress -c 16`
 
 [<img src="https://i.imgur.com/COWHvrT.png">](https://i.imgur.com/COWHvrT.png)
+[<img src="https://i.imgur.com/aHjja75.png">](https://i.imgur.com/aHjja75.png)
 
 * Monitoring:
 
-[<img src="https://i.imgur.com/DwChvyd.png">](https://i.imgur.com/DwChvyd.png)
+[<img src="https://i.imgur.com/1u5EZyu.png">](https://i.imgur.com/1u5EZyu.png)
+[<img src="https://i.imgur.com/EJ2fFNG.png">](https://i.imgur.com/EJ2fFNG.png)
+[<img src="https://i.imgur.com/llkXkF4.png">](https://i.imgur.com/llkXkF4.png)

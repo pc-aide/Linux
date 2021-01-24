@@ -1,0 +1,6 @@
+# sudoers
+
+## Add user in sudo
+* `usermod -aG wheel <Username>`
+
+[<img src="https://i.imgur.com/JCPICgz.png">](https://i.imgur.com/JCPICgz.png)

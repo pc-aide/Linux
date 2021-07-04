@@ -11,7 +11,7 @@
 
 ## 01 job | each reboot
 ````sh
- CleanUp *.png in Picture Folder
+#CleanUp *.png in Picture Folder
 @reboot rm /home/ubuntu/Pictures/*.png
 ````
 

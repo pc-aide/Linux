@@ -23,6 +23,7 @@ apt upgrade -y
 apt install -y  libssl-dev cifs-utils
 
 #https://imgur.com/AMCz0a7
+#http://archive.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
 wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb
 #https://imgur.com/VipRgpG
 sudo apt install ./libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb

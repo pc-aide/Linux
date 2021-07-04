@@ -73,4 +73,4 @@ admin:<blank>
 
 #Directory default
 
-[<img src="https://i.imgur.com/pvsNaCk.png">](https://i.imgur.com/pvsNaCk.png)
+[<img src="https://i.imgur.com/u0piWFl.png">](https://i.imgur.com/u0piWFl.png)

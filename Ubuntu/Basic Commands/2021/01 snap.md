@@ -11,3 +11,11 @@
 ````sh
 sudo snap install remmina
 ````
+
+---
+
+## 02 | list
+````sh
+snap list
+````
+[<img src="https://i.imgur.com/bftmEAo.png">](https://i.imgur.com/bftmEAo.png)

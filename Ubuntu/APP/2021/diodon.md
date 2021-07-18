@@ -9,8 +9,9 @@ Sorting... Done
 Full Text Search... Done
 diodon/hirsute,now 1.11.0-1 amd64 [installed]
   GTK+ Clipboard manager
-
 ````
+[<img src="https://i.imgur.com/Yab3qrZ.png">](https://i.imgur.com/Yab3qrZ.png)
+
 * Settings:
 
 [<img src="https://i.imgur.com/xynxPUV.png">](https://i.imgur.com/xynxPUV.png)

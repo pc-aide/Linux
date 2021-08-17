@@ -17,3 +17,7 @@ freerdp2-x11/hirsute,now 2.3.0+dfsg1-1 amd64 [installed]
 ## Switch
 * +clipboard
 * /v:<server>
+* /u:<user>
+* /f:FulScreeen
+* /monitors:<id>
+  * /monitor-list - List detect monitors  

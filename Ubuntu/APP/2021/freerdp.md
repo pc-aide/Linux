@@ -1,4 +1,4 @@
-# freerdp-
+# freerdp
 
 ---
 

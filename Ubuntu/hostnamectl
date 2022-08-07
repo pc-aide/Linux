@@ -1,6 +1,0 @@
-# hostnamectl
-
-## New name
-````bash
-hostnamectl set-hostname NewName
-````

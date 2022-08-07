@@ -1,8 +1,0 @@
-# dig
-
-## Syntax
-
-## Siwthc
-* 
-
-## Examples

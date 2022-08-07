@@ -12,7 +12,7 @@ sudo apt install -y <name>
 ## search
 ````sh
 apt search --name-only ^
-````hhhh
+````
 
 ---
 

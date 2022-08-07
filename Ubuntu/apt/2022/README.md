@@ -11,7 +11,7 @@ sudo apt install -y <name>
 
 ## search
 ````sh
-apt search --name-only ^
+apt search --name-only ^<keyWord>
 ````
 
 ---

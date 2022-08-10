@@ -9,6 +9,14 @@ sudo apt install -y <name>
 
 ---
 
+## app installed
+````sh
+apt list --installed
+````
+[<img src="https://i.imgur.com/v9qjNEN.png">](https://i.imgur.com/v9qjNEN.png)
+
+---
+
 ## search
 ````sh
 apt search --name-only ^<keyWord>

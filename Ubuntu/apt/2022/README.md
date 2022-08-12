@@ -33,3 +33,4 @@ apt search --name-only ^<keyWord>
 |4|git|fast, scalable, distributed revision control system||
 |5|spacefm|Multi-panel tabbed file manager - GTK2 version||
 |6|pwgen|Automatic Password generation|[<img src="https://i.imgur.com/7IHm23M.png">](https://i.imgur.com/7IHm23M.png)|
+|7|ffmpeg|Tools for transcoding, streaming and playing of multimedia files||

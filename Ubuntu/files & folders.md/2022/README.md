@@ -6,6 +6,7 @@
 |n|file|desc.|path|O/P|
 |-|----|-----|----|---|
 |1|fstab|ex: mount cifs persistant|/etc/fstab||
+|2|resolv.conf|dns|/etc/resolv.conf|[<img src="https://i.imgur.com/Y3HLbi8.png">](https://i.imgur.com/Y3HLbi8.png)|
 
 ---
 

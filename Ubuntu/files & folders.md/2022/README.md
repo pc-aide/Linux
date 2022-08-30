@@ -7,6 +7,7 @@
 |-|----|-----|----|---|
 |1|fstab|ex: mount cifs persistant|/etc/fstab||
 |2|resolv.conf|dns|/etc/resolv.conf|[<img src="https://i.imgur.com/Y3HLbi8.png">](https://i.imgur.com/Y3HLbi8.png)|
+|3|dmesg||/var/log/dmesg|[<img src="https://i.imgur.com/apzf9bk.png">](https://i.imgur.com/apzf9bk.png)|
 
 ---
 

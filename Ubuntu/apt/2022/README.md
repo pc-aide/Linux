@@ -48,6 +48,6 @@ apt search --name-only ^<keyWord>
 ---
 
 ## taskBar
-|n|name|e.g.|O/P|
+|n|name|desc.|e.g.|O/P|
 |-|----|-----|---|
-|1|meteo (weather)|sudo add-apt-repository ppa:bitseater/ppa<br/>sudo apt install com.gitlab.bitseater.meteo|[<img src="https://i.imgur.com/NqUzTbQ.png">](https://i.imgur.com/NqUzTbQ.png)|
+|1|meteo|weather|sudo add-apt-repository ppa:bitseater/ppa<br/>sudo apt install com.gitlab.bitseater.meteo|[<img src="https://i.imgur.com/NqUzTbQ.png">](https://i.imgur.com/NqUzTbQ.png)|

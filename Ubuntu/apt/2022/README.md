@@ -44,3 +44,10 @@ apt search --name-only ^<keyWord>
 |n|name|desc.|O/P|
 |-|----|-----|---|
 |1|curl|command line tool for transferring data with URL syntax||
+
+---
+
+## taskBar
+|n|name|e.g.|O/P|
+|-|----|-----|---|
+|1|meteo (weather)|sudo add-apt-repository ppa:bitseater/ppa<br/>sudo apt install com.gitlab.bitseater.meteo|[<img src="https://i.imgur.com/NqUzTbQ.png">](https://i.imgur.com/NqUzTbQ.png)|

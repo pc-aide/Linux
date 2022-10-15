@@ -3,6 +3,9 @@
 ---
 
 ## network
+### curl
 |n|name|e.g.|O/P|
 |-|----|----|---|
-|1|curl|# -s --silent<br/>`curl -s https://www.rds.ca`||
+|1|default|# -s --silent<br/>`curl -s https://www.rds.ca`||
+|2|recurse|`curl -s https://www.rds.ca/\?recurse`|[<img src="https://i.imgur.com/ehnbIFh.png">](https://i.imgur.com/ehnbIFh.png)|
+|3|PUT|# -d --data \| -X --request<br/>`curl -s https://www.rds.ca/test101 -d bar -X PUT`|[<img src="https://i.imgur.com/fLG5ODv.png">](https://i.imgur.com/fLG5ODv.png)|

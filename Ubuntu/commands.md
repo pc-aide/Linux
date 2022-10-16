@@ -11,3 +11,4 @@
 |3|PUT|# -d --data \| -X --request<br/>`curl -s https://www.rds.ca/test101 -d bar -X PUT`|[<img src="https://i.imgur.com/fLG5ODv.png">](https://i.imgur.com/fLG5ODv.png)|
 |4|index (versioning)|# consul<br/>`curl -s http://localhost:8500/v1/kev/\?recurse\&index\=1186`||
 |5|wait|`curl -s http://localhost:8500/v1/kev/\?recurse\&index\=1186\&wait\=10s`|
+|6|verbose|`curl curl https://www.rds.ca -v | more`|[<img src="https://i.imgur.com/T3XtGqu.png">](https://i.imgur.com/T3XtGqu.png)|

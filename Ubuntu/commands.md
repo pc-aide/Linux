@@ -5,7 +5,7 @@
 ## network
 |n|name|e.g.|O/P|
 |-|----|----|---|
-|1|tcpflow|
+|1|tcpflow|tcpflow -i eth0 -gc||
 ### curl
 |n|name|e.g.|O/P|
 |-|----|----|---|

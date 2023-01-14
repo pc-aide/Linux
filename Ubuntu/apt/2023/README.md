@@ -5,5 +5,7 @@
 ## List
 ````sh
 sudo apt install -y \
-  diodon # clipboard mgr. After install\custom keyBoard : cli : /usr/bin/diodon & shortcut : shotcut: ctrl+alt+h
+  diodon # clipboard mgr. \
+    # After install\custom keyBoard : cli : /usr/bin/diodon & shortcut : shotcut: ctrl+alt+h
+    # checkBox : 
 ````

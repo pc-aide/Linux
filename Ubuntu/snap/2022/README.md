@@ -26,3 +26,4 @@ snap install --classic code
 |-|----|-----|----|---|
 |1|code|<ins>Summary</ins><br/>code editing. Redefined||
 |2|terraform|IaC|sudo snap install --classic terraform|[<img src="https://i.imgur.com/30Bun4L.png">](https://i.imgur.com/30Bun4L.png)|
+|3|Teams||sudo snap install teams-for-linux|

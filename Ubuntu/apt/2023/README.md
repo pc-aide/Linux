@@ -9,4 +9,6 @@ sudo apt install -y \
     # After install\custom keyBoard : cli : /usr/bin/diodon & shortcut : shotcut: ctrl+alt+h
     # settings\checkBox : add images to clipboard history
   spacefm # Multi-panel tabbed file mgr
+  # /v:<ost> /u:<user> /size:1400x900 /monitor:<integer>  /f <fullScreen>
+  freerdp2-x11
 ````

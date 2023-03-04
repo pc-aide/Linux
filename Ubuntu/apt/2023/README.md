@@ -13,5 +13,6 @@ sudo apt install -y \
   # RDP \
   freerdp2-x11 \
   # 
-  curl #
+  curl \
+  azure-cli
 ````

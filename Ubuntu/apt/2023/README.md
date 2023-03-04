@@ -15,7 +15,7 @@ sudo apt install -y \
   # 
   curl \
   git \
-  # password generate - pwgen 12 -1nsy
+  # password generate - pwgen 14 -1nsy
   pwgen \
   azure-cli
 ````

@@ -14,5 +14,6 @@ sudo apt install -y \
   freerdp2-x11 \
   # 
   curl \
+  git \
   azure-cli
 ````

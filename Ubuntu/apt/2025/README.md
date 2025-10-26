@@ -5,5 +5,7 @@
 ## List
 ````sh
 # spacefm 
-sudo apt install -y spacefm
+sudo apt install -y \
+  spacefm \
+  freerdp2-x11
 ````

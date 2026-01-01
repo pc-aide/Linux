@@ -10,7 +10,7 @@ sudo apt install -y \
   spacefm \
   # /size:1400x900 /monitor:<integer>  /f <fullScreen> 
   # xfreerdp /v:4.206.142.32 /u:samme /clipboard
-  freerdp2-x11
+  freerdp2-x11 \
   # auto key
   autokey-gtk
 ````
